@@ -1,3 +1,26 @@
+<!-- Jabbar Ghafoor, S1514090 -->
+
 <resources>
-    <string name="app_name">TrafficScotlandApp</string>
+
+    <string name="app_name">Traffic Scotland</string>
+    <string name="name_id">Jabbar Ghafoor S1514090</string>
+
+    <string name="search_bar">Enter road name</string>
+
+    <string name="error">Traffic Scotland Data Unavailble</string>
+
+    <string name="Title_Incidents">Current Incidents</string>
+    <string name="Title_cRoadworks">Current Roadworks</string>
+    <string name="Title_Planned">Planned Roadworks</string>
+
+    <string name="initial_data">M4 westbound between j11 and J12 | Westbound|Congestion</string>
+    <string name="day">Monday</string>
+    <string name="todo">TODO</string>
+    <string name="titleDataMap">M23| BROKEN DOWN VEHICLE</string>
+    <string name="fetching_data">Fetching Data</string>
+    <string name="ten">10</string>
+
+    <!--Google Maps API Key-->
+    <string name="maps_API_key">AIzaSyAeo5SGsIoSN_sHyvUbYuIK3C-AfqkvB5E</string>
+
 </resources>

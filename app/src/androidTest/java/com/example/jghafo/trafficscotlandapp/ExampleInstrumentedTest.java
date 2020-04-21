@@ -10,6 +10,9 @@ import org.junit.runner.RunWith;
 
 import static org.junit.Assert.*;
 
+//Name: Jabbar Ghafoor
+//Student ID: S1514090
+
 /**
  * Instrumented test, which will execute on an Android device.
  *

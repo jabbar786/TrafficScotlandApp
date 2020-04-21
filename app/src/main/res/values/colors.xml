@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Jabbar Ghafoor, S1514090 -->
 <resources>
-    <color name="colorPrimary">#008577</color>
-    <color name="colorPrimaryDark">#00574B</color>
-    <color name="colorAccent">#D81B60</color>
+    <color name="colorPrimary">@android:color/holo_blue_light</color>
+    <color name="colorPrimaryLight">@android:color/holo_blue_bright</color>
+    <color name="colorPrimaryDark">@android:color/holo_blue_dark</color>
+    <color name="colorAccent">#e3e4ed</color>
+
+    <color name="txt_colour2">#FFFFFF</color>
+    <color name="txt_colour">#C8000000</color>
+    <color name="timespan_s">#86a846</color>
+    <color name="timespan_m">#d98047</color>
+    <color name="timespan_l">#b34640</color>
+
 </resources>
